@@ -1,0 +1,6 @@
+**/terraform/terraform.tfstate*
+**/.DS_Store
+**/Gemfile.lock
+terraform/.terraform
+**/*.swp
+**/.terraform
